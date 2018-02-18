@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jonrobinson2.github.io/about/</loc>
+    <lastmod>2018-02-17T16:12:22-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jonrobinson2.github.io/posts/I-Asked-A-Biased-Sample-Of-People-How-They-Think-The-Voting-Electorate-Will-Look-Like/</loc>
+    <lastmod>2016-11-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jonrobinson2.github.io/posts/Extra-Graphs/</loc>
+    <lastmod>2015-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jonrobinson2.github.io/posts/Public-Polling-May-Be-Understating-Trumps-Support/</loc>
+    <lastmod>2015-09-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jonrobinson2.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jonrobinson2.github.io/</loc>
+    <lastmod>2018-02-17T16:12:22-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jonrobinson2.github.io/posts/</loc>
+    <lastmod>2016-11-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jonrobinson2.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

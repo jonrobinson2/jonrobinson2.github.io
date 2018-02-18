@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello, my name is Jonathan Robinson.</title>
+    <link>https://jonrobinson2.github.io/</link>
+    <description>Recent content on Hello, my name is Jonathan Robinson.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Feb 2018 16:12:22 -0500</lastBuildDate>
+    
+	<atom:link href="https://jonrobinson2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://jonrobinson2.github.io/about/</link>
+      <pubDate>Sat, 17 Feb 2018 16:12:22 -0500</pubDate>
+      
+      <guid>https://jonrobinson2.github.io/about/</guid>
+      <description> I&amp;rsquo;m a social scientist by training and statistician and data scientist by practice. I work at a progressive technology and data firm in Washington, DC, but am a proud native of Cincinnati, Ohio. </description>
+    </item>
+    
+    <item>
+      <title>I asked a biased sample of people what they think the electorate will look in 2016, here&#39;s what I learned.</title>
+      <link>https://jonrobinson2.github.io/posts/I-Asked-A-Biased-Sample-Of-People-How-They-Think-The-Voting-Electorate-Will-Look-Like/</link>
+      <pubDate>Mon, 07 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jonrobinson2.github.io/posts/I-Asked-A-Biased-Sample-Of-People-How-They-Think-The-Voting-Electorate-Will-Look-Like/</guid>
+      <description>&amp;ldquo;It all comes down to turnout&amp;rdquo; is a phrase uttered by countless analysts, pundits, and armchair elections quarterbacks alike. Over 4 days from September 30th to October 4th I surveyed the views of 400 non-random people a few questions about who they thought would vote in 2016 by pushing them to take a survey on the Survey Monkey platform. The goal here is not to ask a representative sample of individuals anything but hoping that the group of people interested in taking the survey have some insights into something that we won&amp;rsquo;t really have a great understanding of until voter files update with turnout records or at least the Census reports on voter turnout come out in the coming months.</description>
+    </item>
+    
+    <item>
+      <title>Extra Graphs</title>
+      <link>https://jonrobinson2.github.io/posts/Extra-Graphs/</link>
+      <pubDate>Thu, 17 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jonrobinson2.github.io/posts/Extra-Graphs/</guid>
+      <description> I got more than a few questions about how this looks like for other candidates so I figure I would put up the full sets of graphs that come from this analysis here for both the full Republican field as well as the full Democratic field.
+Interviewer vs. Non Interviewer Polls (Republican Field) Interviewer vs. Non Interviewer Polls (Democratic Field) </description>
+    </item>
+    
+    <item>
+      <title>Public Polling Actually Understates Trump&#39;s Support Among Republicans</title>
+      <link>https://jonrobinson2.github.io/posts/Public-Polling-May-Be-Understating-Trumps-Support/</link>
+      <pubDate>Wed, 16 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jonrobinson2.github.io/posts/Public-Polling-May-Be-Understating-Trumps-Support/</guid>
+      <description>What&amp;rsquo;s the deal with Trump support? Like many a Jewish public opinion researcher, this past weekend I found myself sitting at a Rosh Hashannah dinner table talking with people about of all things, Donald Trump. Anticipating this, I dug a bit into &amp;lsquo;the Donald&amp;rdquo;s numbers in publicly available top-line polling data in an attempt to gain some semblance of a nugget to share with my dining companions.
+What I found was fascinating and sheds a valuable light on Donald Trumps candidacy and public opinion on controversial people and issues in general.</description>
+    </item>
+    
+  </channel>
+</rss>
